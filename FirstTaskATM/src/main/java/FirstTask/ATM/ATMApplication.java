@@ -10,6 +10,4 @@ public class ATMApplication {
 
 		SpringApplication.run(ATMApplication.class, args);
 	}
-//hello
-	//mm
 }
